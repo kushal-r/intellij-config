@@ -1,7 +1,4 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
-  <action id="Macro.Format Code, Organize Imports, Save">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="SaveAll" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
